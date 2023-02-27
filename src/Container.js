@@ -10,7 +10,13 @@ function Container() {
       <div className="w-5/6 2xl:ml-80 md:ml-32 sm:ml-28 h-screen">
         <Canvas
           shadows
-          camera={{ fov: 45, near: 0.1, far: 200, position: [2.5, 4, 6] }}
+          camera={{
+            fov: 55,
+            near: 0.1,
+            far: 200,
+            position: [10, -2, 0],
+            rotation: [0, 0, 45],
+          }}
         >
           <Experience />
         </Canvas>
@@ -20,4 +26,3 @@ function Container() {
 }
 
 export default Container;
-// style={{ width: "100vw", height: "100vh" }}

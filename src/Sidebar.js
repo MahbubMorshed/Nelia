@@ -51,7 +51,7 @@ function Sidebar() {
                     <path d="M11 6h2v2h-2Zm4 0h2v2h-2Zm0 4.03h2v1.96h-2Zm0 3.96h2v2h-2Zm-8 1h2v2H7Z"></path>
                   </g>
                 </svg>
-                <span className="font-QuicksandMedium">Cube</span>
+                <span className="font-QuicksandMedium">Candle Light</span>
               </div>
             </div>
           </Link>

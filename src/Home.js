@@ -126,13 +126,16 @@ function Home() {
               </div>
 
               <p className="text-lg text-gray-500 pt-5 text-start tracking-wide">
-                Lorem ipsum dolor sit amet consectetur adipisicing elit.
-                Voluptatem enim aliquam laborum explicabo. Pariatur est vero
-                aliquid, sit velit optio a error qui dolores maxime nemo hic
-                aliquam ratione nisi? Lorem ipsum dolor sit amet consectetur
-                adipisicing elit. Voluptatem enim aliquam laborum explicabo.
-                Pariatur est vero aliquid, sit velit optio a error qui dolores
-                maxime nemo hic aliquam ratione nisi?
+                I’m totally newbie, My professional skills still poor, I am in
+                the process of development my skills, I am in the process of
+                studying additional softwares.
+                <br />
+                Education -Elementary School -High school of business, faculty
+                of management of regional tourism
+                <br />
+                Experience -I haven’t any experience I don’t even know my
+                personal skills, because there was no opportunity to
+                self-examine and find out
               </p>
             </div>
           </div>
